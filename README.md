@@ -46,7 +46,7 @@ Configure the Windows path variable
 Install the Processing plugin for Sublime
 ---------------
 1. In Sublime, choose *Preferences | Package Control*
-2. Click on *Package Control: Install Package"
+2. Click on *Package Control: Install Package*
 3. Type *Processing* in the text field
 4. Click on *Processing* to install the plugin
 5. Look at the bottom left of the Sublime program to see if the plugin installed correctly
