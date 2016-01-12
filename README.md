@@ -53,7 +53,9 @@ Install the Processing plugin for Sublime
 
 Configure the Processing plugin for Sublime
 ---------------
-1. In Sublime choose *Tools | Build System | Processing*
+1. In Sublime, open a Processing `.pde` file
+2. Choose *Tools | Build System | Processing*
 2. Choose *Tools | Build With...* and click on Processing
 3. Choose *View | Syntax | Processing*
+4. Choose *Tools | Build* (or press cntrl + B) to build and run your Processing program
 
