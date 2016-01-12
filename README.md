@@ -49,7 +49,7 @@ Install the Processing plugin for Sublime
 2. Click on *Package Control: Install Package*
 3. Type *Processing* in the text field
 4. Click on *Processing* to install the plugin
-5. Look at the bottom left of the Sublime program to see if the plugin installed correctly
+5. Look at the bottom left of the Sublime program to see if the plugin installed correctly. If not, just install it again
 
 Configure the Processing plugin for Sublime
 ---------------
