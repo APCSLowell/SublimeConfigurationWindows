@@ -26,36 +26,38 @@ Install Sublime Text 3
 Install Package Control for Sublime
 ---------------
 1. Start Sublime
-2. Choose *View | Show Console*
+2. Choose *View | Show Console*  
+![Show Console](SublimeConfig1.png)
 3. Open a browser, and go to [https://packagecontrol.io/installation](The Sublime Package Control Installation page)
 4. Copy the code that sarts with `import urllib.request`
 5. Paste that in the console in Sublime and press enter
+![Paste code in console](SublimeConfig2.png)
 6. In Sublime, check to see if there is a *Package Control* under *Preferences*
 
 Configure the Windows path variable
 ---------------
 1. Click on the start menu
-2. In the field labeled *Search programs and files* type `sysdm.cpl` and press enter
+2. In the field labeled *Search programs and files* type `sysdm.cpl` and press enter  
+![sysdm.cpl](SublimeConfig3.png)
 3. In the *System Properties* window, click on the *Advanced* tab
 4. Click on the *Environment Variables* button
 5. Under *System Variables* scroll down and choose *Path.* Then click on *Edit*
-6. At the very end of the *Variable Value* field type a semi-colon and then type the path to Processing. It should look like `;C:\Program Files\processing-2.2.1`
+6. At the very end of the *Variable Value* field type a semi-colon and then type the path to Processing. It should look like `;C:\Program Files\processing-2.2.1`  
+![sysdm.cpl](SublimeConfig4.png)
 7. Click on *Ok* and *Ok* to exit
 
 
 Install the Processing plugin for Sublime
 ---------------
 1. In Sublime, choose *Preferences | Package Control*
-2. Click on *Package Control: Install Package*
+2. Click on *Package Control: Install Package"
 3. Type *Processing* in the text field
 4. Click on *Processing* to install the plugin
-5. Look at the bottom left of the Sublime program to see if the plugin installed correctly. If not, just install it again
+5. Look at the bottom left of the Sublime program to see if the plugin installed correctly
 
 Configure the Processing plugin for Sublime
 ---------------
-1. In Sublime, open a Processing `.pde` file
-2. Choose *Tools | Build System | Processing*
+1. In Sublime choose *Tools | Build System | Processing*
 2. Choose *Tools | Build With...* and click on Processing
 3. Choose *View | Syntax | Processing*
-4. Choose *Tools | Build* (or press cntrl + B) to build and run your Processing program
 
