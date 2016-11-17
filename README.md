@@ -5,7 +5,7 @@ To use Sublime at home, you will need to install several different programs and 
 
 Install Processing
 ------------------
-1. Download [Processing](https://processing.org/download/?processing). On the school computers we are using the 64 bit version of Processing 2.2.1
+1. Download [Processing](https://processing.org/download/?processing). On the school computers we are using the 64 bit version of Processing 3
 2. Extract the compressed folder. It will be named something like `processing-2.2.1-windows64.zip`. One way is to right click on the folder and choose *Extract All*
 3. The extracted folder will have a name like `processing-2.2.1`. Move the folder to a convienant location. One place might be `C:\Program Files`.
 
