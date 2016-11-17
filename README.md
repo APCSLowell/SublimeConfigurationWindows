@@ -28,7 +28,7 @@ Install Package Control for Sublime
 1. Start Sublime
 2. Choose *View | Show Console*  
 ![Show Console](SublimeConfig1.png)
-3. Open a browser, and go to [https://packagecontrol.io/installation](The Sublime Package Control Installation page)
+3. Open a browser, and go to [https://packagecontrol.io/installation](https://packagecontrol.io/installation)(The Sublime Package Control Installation page)
 4. Copy the code that sarts with `import urllib.request`
 5. Paste that in the console in Sublime and press enter
 ![Paste code in console](SublimeConfig2.png)
