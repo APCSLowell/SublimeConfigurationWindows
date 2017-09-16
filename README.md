@@ -7,7 +7,7 @@ Install Processing
 ------------------
 1. Download [Processing](https://processing.org/download/?processing). On the school computers we are using the 64 bit version of Processing 3
 2. Extract the compressed folder. It will be named something like `processing-3.3.4-windows64.zip`. One way is to right click on the folder and choose *Extract All*
-3. The extracted folder will have a name like `processing-3.3.4`. Move the folder to a convienant location. One place might be `C:\Program Files`.
+3. The extracted folder will have a name like `processing-3.3.4`. Move the folder to a convenient location. One place might be `C:\Program Files`.
 
 Install GitBash
 ---------------
@@ -21,7 +21,7 @@ Install Sublime Text 3
 1. Go to [http://www.sublimetext.com/3](http://www.sublimetext.com/3) and download Sublime Text 3 for Windows. 
 2. Double click the downloaded file. It will have a name like `Sublime Text Build 3143 x64 Setup.exe`.
 3. Click *Run*
-4. The default configuration works fine, you can click *Yes* or *Next* whenever prompted
+4. The default configuration works fine, you can click *Yes* or *Next* whenever prompted. (Optional: On the school classroom computers *Add to explorer context menu* was selected on the *Select Additional Tasks* screen)
 
 Configure the Windows path variable
 ---------------
