@@ -12,14 +12,14 @@ Install Processing
 Install GitBash
 ---------------
 1. Go to [https://git-scm.com/downloads](https://git-scm.com/downloads) and click on *Windows* under *Downloads*.
-2. Double click the downloaded file. It will have a name like `Git-1.9.4-preview20140815.exe`.
-3. Click *Run*
+2. Double click the downloaded file. It will have a name like `Git-2.14.1-64-bit.exe`.
+3. Click *Yes* to run the installer
 4. The default configuration works fine, you can click *Yes* or *Next* whenever prompted
 
 Install Sublime Text 3
 ---------------
 1. Go to [http://www.sublimetext.com/3](http://www.sublimetext.com/3) and download Sublime Text 3 for Windows. 
-2. Double click the downloaded file. It will have a name like `Sublime Text Build 3083 x64 Setup.exe`.
+2. Double click the downloaded file. It will have a name like `Sublime Text Build 3143 x64 Setup.exe`.
 3. Click *Run*
 4. The default configuration works fine, you can click *Yes* or *Next* whenever prompted
 
