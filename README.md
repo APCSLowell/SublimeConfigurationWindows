@@ -32,7 +32,7 @@ Configure the Windows path variable
 4. Click on the *Environment Variables* button
 5. Under *System Variables* scroll down and choose *Path.* Then click on *Edit*  
 ![sysdm.cpl](SublimeConfig4.png)
-6. At the very end of the *Variable Value* field type a semi-colon and then type the path to Processing. It should look like `;C:\Program Files\processing-2.2.1`  
+6. Click on *New* and then type the path to Processing. It should look something like `;C:\Program Files\processing-3.3.4`  
 7. Click on *Ok* and *Ok* to exit
 
 
