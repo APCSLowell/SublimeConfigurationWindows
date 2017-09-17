@@ -9,6 +9,18 @@ Install Processing
 2. Extract the compressed folder. It will be named something like `processing-3.3.4-windows64.zip`. One way is to right click on the folder and choose *Extract All*
 3. The extracted folder will have a name like `processing-3.3.4`. Move the folder to a convenient location. One place might be `C:\Program Files`.
 
+Configure the Windows path variable
+---------------
+1. Click on the start menu
+2. In the field labeled *Type here to search* type `sysdm.cpl` and press enter  
+![sysdm.cpl](SublimeConfig3.png)
+3. In the *System Properties* window, click on the *Advanced* tab
+4. Click on the *Environment Variables* button
+5. Under *System Variables* scroll down and choose *Path.* Then click on *Edit*  
+6. Click on *New* and then type the path to Processing. It should look something like `C:\Program Files\processing-3.3.4`  
+![sysdm.cpl](SublimeConfig4.png)
+7. Click on *Ok* and *Ok* to exit
+
 Install GitBash
 ---------------
 1. Go to [https://git-scm.com/downloads](https://git-scm.com/downloads) and click on *Windows* under *Downloads*.
@@ -22,19 +34,6 @@ Install Sublime Text 3
 2. Double click the downloaded file. It will have a name like `Sublime Text Build 3143 x64 Setup.exe`.
 3. Click *Run*
 4. The default configuration works fine, you can click *Yes* or *Next* whenever prompted. (Optional: On the school classroom computers *Add to explorer context menu* was selected on the *Select Additional Tasks* screen)
-
-Configure the Windows path variable
----------------
-1. Click on the start menu
-2. In the field labeled *Type here to search* type `sysdm.cpl` and press enter  
-![sysdm.cpl](SublimeConfig3.png)
-3. In the *System Properties* window, click on the *Advanced* tab
-4. Click on the *Environment Variables* button
-5. Under *System Variables* scroll down and choose *Path.* Then click on *Edit*  
-6. Click on *New* and then type the path to Processing. It should look something like `C:\Program Files\processing-3.3.4`  
-![sysdm.cpl](SublimeConfig4.png)
-7. Click on *Ok* and *Ok* to exit
-
 
 Install Package Control and the Processing plugin for Sublime
 ---------------
