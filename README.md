@@ -40,7 +40,7 @@ Install Package Control and the Processing plugin for Sublime
 ---------------
 1. In Sublime, choose *Tools | Install Package Control*
 1. Choose *Preferences | Package Control*
-2. Click on *Package Control: Install Package"
+2. Click on *Package Control: Install Package*
 3. Type *Processing* in the text field
 4. Click on *Processing* to install the plugin
 5. Look at the bottom left of the Sublime program to see if the plugin installed correctly
