@@ -1,7 +1,7 @@
 Installing and configuring Sublime on your home Windows computer
 =============================
 
-To duplicate the Sublime configuration we use at school on your home computer, you will need to install several different programs and configure the Windows path variable.
+To duplicate the Sublime configuration we use at school on your home computer you will need to install several different programs and configure the Windows path variable.
 
 Install Processing
 ------------------
