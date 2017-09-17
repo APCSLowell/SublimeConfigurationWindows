@@ -32,7 +32,7 @@ Install Sublime Text 3
 ---------------
 1. Go to [http://www.sublimetext.com/3](http://www.sublimetext.com/3) and download Sublime Text 3 for Windows. 
 2. Double click the downloaded file. It will have a name like `Sublime Text Build 3143 x64 Setup.exe`.
-3. Click *Run*
+3. Click *Yes* to run the installer
 4. The default configuration works fine, you can click *Yes* or *Next* whenever prompted. (Optional: On the school classroom computers *Add to explorer context menu* was selected on the *Select Additional Tasks* screen)
 
 Install Package Control and the Processing plugin for Sublime
