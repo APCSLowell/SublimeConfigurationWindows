@@ -26,7 +26,7 @@ Install Sublime Text 3
 Configure the Windows path variable
 ---------------
 1. Click on the start menu
-2. In the field labeled *Search programs and files* type `sysdm.cpl` and press enter  
+2. In the field labeled *Type here to search* type `sysdm.cpl` and press enter  
 ![sysdm.cpl](SublimeConfig3.png)
 3. In the *System Properties* window, click on the *Advanced* tab
 4. Click on the *Environment Variables* button
